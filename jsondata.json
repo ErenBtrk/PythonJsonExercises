@@ -1,9 +1,1 @@
-{
-    "age": "1993",
-    "firstName": "ali",
-    "languages": [
-        "english",
-        "turkish"
-    ],
-    "lastName": "veli"
-}
+"{\n    \"age\": \"1993\",\n    \"firstName\": \"ali\",\n    \"languages\": [\n        \"english\",\n        \"turkish\"\n    ],\n    \"lastName\": \"veli\"\n}"
