@@ -16,4 +16,4 @@ json_obj = json.dumps(python_dict,sort_keys=True,indent = 4)
 print(json_obj)
 
 with open("jsondata.json","w") as file:
-    file.write(json_obj)
+    json.dump(json_obj,file)
